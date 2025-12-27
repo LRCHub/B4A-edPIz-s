@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "しっくおぶはうす！／鏡音リン・レン",
   "base_artist": "Ozon",
-  "createdAt": "2025-12-01T13:59:37.024405Z",
+  "createdAt": "2025-12-27T17:54:57.827605Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -59,6 +59,14 @@
       "artist": "オゾン",
       "has_synced": false,
       "path": "select/pl_05_しっくおぶはうす!_(市瀬るぽ_Remix)_(feat._鏡音リン&鏡音レン)_オゾン.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "しっくおぶはうす! (Self Remix) (feat. 鏡音リン&鏡音レン)",
+      "artist": "オゾン",
+      "has_synced": false,
+      "path": "select/pl_06_しっくおぶはうす!_(Self_Remix)_(feat._鏡音リン&鏡音レン)_オゾン.txt"
     }
   ]
 }
